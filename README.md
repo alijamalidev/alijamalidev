@@ -1,6 +1,6 @@
-### Hi there
+## Hi there
 
-
+### علی جمالی
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning react
